@@ -14,6 +14,10 @@ This command-line interface (CLI) program allows users to navigate directories, 
 ### Run the program:
 - java FileOperationsCLI
 
+### Database
+
+This command-line interface (CLI) program is designed for file operations and does not currently utilize a traditional database. The program focuses on providing basic file management functionality directly through the command line.
+
 ### Customize the Initial Directory
 
 By default, this program starts in the "E:/" directory. If you want to use a different drive or directory as the primary location for file operations, you can customize the initial directory by following these steps:
